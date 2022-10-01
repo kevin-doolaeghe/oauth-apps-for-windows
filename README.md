@@ -1,4 +1,4 @@
-OAuth for Apps: Samples for Windows
+OAuth 2.0 Google authentication samples for Console, Windows Forms and UWP applications.
 ============
 
 This repository contains samples for doing OAuth 2.0 to Google for Windows apps,
